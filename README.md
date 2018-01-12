@@ -1,6 +1,6 @@
 # Word-search-algorithm
 
-##Example
+## Example
 Searchword: Found values
 Baum:  Baum
 abenddaemmerung:  Abend,haben
